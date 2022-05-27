@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 
-- Live Site URL: [Github Pages](https://persolanstereox.github.io/fylo-landing-page/)
+- Live Site URL: [Github Pages]https://maciekgangus.github.io/calculator/
 
 ## My process
 
